@@ -1,6 +1,7 @@
 # vector
 
 [![GitHub license](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square)](http://goldsborough.mit-license.org)
+[![Build Status](https://travis-ci.org/JulStrat/vector.svg?branch=dev)](https://travis-ci.org/JulStrat/vector)
 
 `vector` is a feature-complete, generic and customizable resizable array implementation in pure C that supports almost the entire C++ `std::vector` API, including iterators.
 
