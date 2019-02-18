@@ -48,3 +48,6 @@ install_manifest.txt
 CTestTestfile.cmake
 .tags*
 build/
+nbproject/
+compile_commands.json
+
